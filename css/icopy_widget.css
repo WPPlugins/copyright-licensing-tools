@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+a.icopy_widget_admin_options {
+  font-size: 6pt !important;
+  display: inline !important;
+  padding: 0 !important;
+}
+
+ul.icopy_widget table, ul.icopy_widget tr, ul.icopy_widget td {
+  border: 0 !important;
+}
+
+ul.icopy_widget table {
+  margin: 0 !important; 
+  width: 100% !important;
+}
+
+ul.icopy_widget table img {
+  vertical-align: middle !important;
+}
+
+ul.icopy_widget table.icopy_widget_admin_options {
+  opacity: .6;
+}
+
+ul.icopy_widget table.icopy_widget_admin_options td {
+  padding: 0;
+}
+
+ul.icopy_widget table.icopy_widget_admin_options span {
+  font-size: 6pt;
+}
+
+ul.icopy_widget tr {
+  
+}
